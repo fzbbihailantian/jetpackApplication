@@ -1,2 +1,3 @@
+include ':navigationapp'
 include ':app'
 rootProject.name = "JetpackApplication"
